@@ -14,4 +14,4 @@
 
 ## Выход
 
-Excel-таблица с полученной информацией от [https://pd.rkn.gov.ru/operators-registry/operators-list/](РКН).
+Excel-таблица с полученной информацией от [РКН](https://pd.rkn.gov.ru/operators-registry/operators-list/).
