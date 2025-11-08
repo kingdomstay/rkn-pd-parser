@@ -1,0 +1,18 @@
+{
+  "name": "rkn_parser_operators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "node index"
+  },
+  "author": "k.a.troickij",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^24.5.2",
+    "axios": "^1.12.2",
+    "cheerio": "^1.1.2",
+    "excel4node": "^1.8.2"
+  }
+}
